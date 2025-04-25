@@ -1,4 +1,3 @@
-To build a fully functional project that detects faces in a gathering and predicts the gender of people, you can use the following steps. Given that you're a beginner with tools like OpenCV, MediaPipe, and NumPy, I will guide you through the process and provide a detailed flowchart for the project.
 
 ### Tech Stack
 1. **Python**: Programming language.
@@ -128,4 +127,3 @@ To build a fully functional project that detects faces in a gathering and predic
 - **Explore gender prediction models**: Try using pre-trained models like **DeepFace** for simplicity, or train your own model if you're interested in machine learning.
 - **Build step by step**: Build your project incrementally – first, get face detection working, then move to gender prediction, and finally integrate the GUI.
 
-Let me know if you'd like further assistance with any step, or if you want me to go into more detail on any specific part of the project!
